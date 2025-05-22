@@ -146,6 +146,17 @@ The ASIC containing three parts
 
 ### <ins> GET FAMILIAR TO OPEN SOURCE EDA TOOLS <ins/>
 
+* **Basic Linux commands**
+  
+> cd : Change directory
+
+> ls -ltr : List files with detailed info, sorted by modification time, from oldest to newest.
+
+> clear :Clears the terminal screen.
+
+> pwd : Print Working Directory
+
+> ls : List directory contents
 
 
 
