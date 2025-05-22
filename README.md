@@ -159,6 +159,45 @@ The ASIC containing three parts
 > ls : List directory contents
 
 
+** Design Preparation Step **
+
+In the oracle vritual box , there is a zip file given from the workshop that contains the open source tools and for using of the tools we use the terminal window in there.
+
+![VirtualBox_vsdworkshop_18_05_2025_17_42_31](https://github.com/user-attachments/assets/dbf4b48a-f76d-49a8-be28-5520c03b14dd)
+
+Here the linux basic commands are used like cd for the changing the directory and ls -ltr etc are used and explored more of the commands 
+
+![2](https://github.com/user-attachments/assets/b2ba2fda-2f9b-49e9-90b8-73f5ff780d45)
+
+![3](https://github.com/user-attachments/assets/083142ac-51fa-4c42-9f4b-48f72771055e)
+
+![4](https://github.com/user-attachments/assets/0b529153-d042-42f2-a44f-58cf7058b336)
+
+this are the commands which are present in the alphabetical order .
+
+* then the directory is changed to openlane_working_dir and exploring the inside files and there the directory goes to the pdks and continue the exploring of the files present and listing them.
+
+![6](https://github.com/user-attachments/assets/d7555bee-ab05-4cdf-93b1-f3f2e93eae63)
+
+![7](https://github.com/user-attachments/assets/ac141cde-ea29-4a0f-a79c-e3b82e1ba0b4)
+
+![8](https://github.com/user-attachments/assets/89559490-5a07-472e-b5e9-e5106dc97afe)
+
+![9](https://github.com/user-attachments/assets/a9539a18-561d-4224-bbdf-3602a2462141)
+
+![10](https://github.com/user-attachments/assets/79ed6ec4-a4f6-4ce2-ad2a-2ac7a904b331)
+
+![11](https://github.com/user-attachments/assets/c430afe2-132b-4e6f-b778-29678e1d84bb)
+
+* we are working in the openlane directory that has the skywater files.
+
+
+  
+
+
+
+
+
 
 
 
