@@ -122,6 +122,30 @@ The ASIC containing three parts
 
 5) Routing: Connects all cells with metal layers while meeting DRC, timing, and signal integrity.
 
+<ins> **OPENLANE ASIC FLOW** <ins/>
+ 
+ ![Screenshot (174)](https://github.com/user-attachments/assets/741def72-51f3-49f1-adb7-a428dd62091c)
+
+1) Preparation: Set up design configuration and technology files (sky130 or other PDKs).
+
+2) Synthesis: Convert RTL to gate-level netlist using Yosys.
+
+3) Floorplanning: Define chip size, aspect ratio, I/O pins, and core/utilization using Floorplan.tcl.
+
+4) Placement: Place standard cells using RePlAce for global and OpenDP for detailed placement.
+
+5) CTS (Clock Tree Synthesis): Generate and balance clock tree using TritonCTS.
+
+6) Routing: Route signal and clock nets using FastRoute (global) and TritonRoute (detailed).
+
+7) GDSII Generation: Export final layout to GDSII using Magic.
+
+8) DRC/LVS Checks: Run design rule (DRC) and layout-vs-schematic (LVS) checks with Magic and Netgen.
+
+9) Power Analysis: Use OpenSTA to check timing and optionally estimate power.
+
+
+
 
 
 
