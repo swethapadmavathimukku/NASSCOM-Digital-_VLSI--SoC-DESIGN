@@ -99,6 +99,21 @@ Last the code goes to the hardware section for process and gives the response.
 
 ![Screenshot (160)](https://github.com/user-attachments/assets/5bbec3b4-45b5-4f67-a7bf-c71e56b16ca7)
 
+ASIC stands for Application-Specific Integrated Circuit. It is a custom-designed chip created for a specific task or application, unlike general-purpose chips like CPUs or GPUs.
+
+The ASIC containing three parts 
+> EDA TOOLS
+
+> RTL Designs
+
+> PDK Data
+
+**<ins> SIMPLIFIED RTL TO GDSII FLOW <ins/>**
+
+![Screenshot (162)](https://github.com/user-attachments/assets/d0aacb89-0642-43d6-96d9-146120fc920a)
+
+
+
 
 
 
