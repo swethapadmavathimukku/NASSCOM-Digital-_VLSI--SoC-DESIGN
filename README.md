@@ -9,7 +9,7 @@ DAY - 1
   1. INCEPTION OF OPEN-SOURCE EDA ,OPENLANE AND SKY130 PDK
        * [HOW TO TALK TO COMPUTERS](https://github.com/swethapadmavathimukku/NASSCOM-Digital-_VLSI--SoC-DESIGN/blob/main/README.md#how-to-talk-to-computers)
        * [SoC DESIGN AND OPEN LANE](https://github.com/swethapadmavathimukku/NASSCOM-Digital-_VLSI--SoC-DESIGN/edit/main/README.md#soc-design-and-open-lane)
-       * [GET FAMILIAR TO OPEN SOURCE EDA TOOLS](https://github.com/swethapadmavathimukku/NASSCOM-Digital-_VLSI--SoC-DESIGN/edit/main/README.md)
+       * [GET FAMILIAR TO OPEN SOURCE EDA TOOLS](https://github.com/swethapadmavathimukku/NASSCOM-Digital-_VLSI--SoC-DESIGN/edit/main/README.md#-get-familiar-to-open-source-eda-tools-)
 
 DAY - 2
   
@@ -43,7 +43,7 @@ DAY - 5
 # DAY - 1
 
 ## INCEPTION OF OPEN-SOURCE EDA ,OPENLANE AND SKY130 PDK
-### HOW TO TALK TO COMPUTERS
+### <ins> HOW TO TALK TO COMPUTERS <ins/>
 
 ARDUINO : Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's designed to make digital electronics more accessible to hobbyists, students, engineers, and artists. Arduino boards are equipped with a microcontroller, which is a small computer that can read inputs (like sensors, buttons, or data from the internet) and turn them into outputs (like activating motors, lights, or displays).
 
@@ -144,7 +144,7 @@ The ASIC containing three parts
 
 9) Power Analysis: Use OpenSTA to check timing and optionally estimate power.
 
-
+### <ins> GET FAMILIAR TO OPEN SOURCE EDA TOOLS <ins/>
 
 
 
