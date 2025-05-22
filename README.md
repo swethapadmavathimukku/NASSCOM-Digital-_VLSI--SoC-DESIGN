@@ -193,13 +193,34 @@ this are the commands which are present in the alphabetical order .
 
 
   
+ ![1](https://github.com/user-attachments/assets/64ab3a7b-1473-4617-a6a7-a21554eb0cd5)
+
+here we used the docker then flow.tcl interactive after the we use the package require command to access the openlane 
+
+ ![2 (1)](https://github.com/user-attachments/assets/e7c549ad-6277-49ea-b3f1-211fed30ae8b)
+
+![2 (2)](https://github.com/user-attachments/assets/f8e5561a-a4f9-4c96-8a0b-9f9a7349a3df)
+
+![2(3)](https://github.com/user-attachments/assets/bbfdf443-f75c-441d-b26d-ad2ab59d9847)
+
+![2(4)](https://github.com/user-attachments/assets/d3baa3dc-b8e3-40a1-90d9-cd767ba9aa06)
+
+We are doing the picorv32 so for that , we changed the directory to picorv32a and explored the conf.tcl 
+
+![3](https://github.com/user-attachments/assets/7b6c43d4-f47f-4f21-a2cb-277e7f3c8ba6)
 
 
+![4](https://github.com/user-attachments/assets/7d725ee0-0915-4c59-a6f9-6cc212e588bc)
 
+![5](https://github.com/user-attachments/assets/1a1401bb-9b01-45c2-93ef-a6330cdfb8c9)
 
+![6](https://github.com/user-attachments/assets/e0734ee0-6db0-4258-b89f-3dd303ba026b)
 
+![7](https://github.com/user-attachments/assets/65a7df34-a0e2-42cd-ba0a-fc7d9301a695)
 
+then goes to the sky130A directory and explored the sky130 conf tcl file
 
+then we used prep -design command for the picorv32a and finished the design preparation
 
 
 
