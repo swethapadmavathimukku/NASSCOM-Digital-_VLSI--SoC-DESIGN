@@ -108,9 +108,19 @@ The ASIC containing three parts
 
 > PDK Data
 
-**<ins> SIMPLIFIED RTL TO GDSII FLOW <ins/>**
+### <ins> SIMPLIFIED RTL TO GDSII FLOW <ins/>
 
 ![Screenshot (162)](https://github.com/user-attachments/assets/d0aacb89-0642-43d6-96d9-146120fc920a)
+
+1) Synthesis: Converts RTL to gate-level netlist using standard cell libraries with timing and area optimization.
+
+2) Floorplanning: Defines chip layout including macro placement, I/O pins, and power grid.
+
+3) Placement: Legally places standard cells to optimize timing, area, and congestion.
+
+4) Clock Tree Synthesis (CTS): Builds balanced clock trees to minimize skew and meet timing.
+
+5) Routing: Connects all cells with metal layers while meeting DRC, timing, and signal integrity.
 
 
 
