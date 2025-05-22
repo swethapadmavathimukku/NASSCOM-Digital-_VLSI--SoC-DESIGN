@@ -84,6 +84,17 @@ These blocks are used to make sure your chip can connect safely to the outside w
 
 ![Screenshot (131)](https://github.com/user-attachments/assets/f97d7fa1-e937-4f26-bbd1-2bbf84b481bf)
 
+### FROM SOFTWARE APPLICATION TO HARDWARE
+
+![Screenshot (137)](https://github.com/user-attachments/assets/fa8fc487-f8b0-4cff-b8f0-e9181a1f81e8)
+
+The above picture contains the representation of the flow , from the software application to the system software and goes to the hardware 
+
+From the software app to the system software that is of containing an OS (Operating system --> n Operating System (OS) is system software that acts as an interface between computer hardware and the user. It manages both hardware resources and software services). It has a compiler and assembler(A compiler translates high-level code into assembly or machine code, while an assembler converts assembly code into machine code.)
+
+Last the code goes to the hardware section for process and gives the response.
+
+
 
 
 
