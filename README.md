@@ -77,6 +77,14 @@ RISC-V is an open-source, modular instruction set architecture (ISA) based on th
 
 ![Screenshot (122)](https://github.com/user-attachments/assets/2a5b09ab-8509-4f47-a092-eb3ae1320b18)
 
+**MACROS**--> Macros are pre-designed, reusable blocks or components that are placed inside a chip to perform specific functions.
+
+**FOUNDRY IP'S**-->Foundry IPs are ready-made blocks provided by the chip manufacturing company (called a foundry, like TSMC or GlobalFoundries). 
+These blocks are used to make sure your chip can connect safely to the outside world and work properly when built.
+
+![Screenshot (131)](https://github.com/user-attachments/assets/f97d7fa1-e937-4f26-bbd1-2bbf84b481bf)
+
+
 
 
 
