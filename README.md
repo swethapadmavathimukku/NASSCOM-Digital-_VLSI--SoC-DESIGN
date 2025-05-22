@@ -95,6 +95,10 @@ From the software app to the system software that is of containing an OS (Operat
 Last the code goes to the hardware section for process and gives the response.
 
 
+### <ins>SoC DESIGN AND OPEN LANE<ins/>
+
+![Screenshot (160)](https://github.com/user-attachments/assets/5bbec3b4-45b5-4f67-a7bf-c71e56b16ca7)
+
 
 
 
