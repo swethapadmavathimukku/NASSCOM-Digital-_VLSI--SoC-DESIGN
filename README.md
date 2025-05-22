@@ -52,6 +52,32 @@ ARDUINO : Arduino is an open-source electronics platform based on easy-to-use ha
 
 The board shown in the image is the Arduino Leonardo, a microcontroller development board based on the ATmega32u4 chip, which is highlighted in the yellow circle. What sets the Leonardo apart from other Arduino boards is its built-in USB communication capability, thanks to the ATmega32u4’s native USB support. This allows the board to emulate USB devices like a keyboard, mouse, or joystick without requiring an additional USB-to-serial converter. It features 20 digital I/O pins (7 of which can be used for PWM), 12 analog inputs, and operates at 5V with a 16 MHz clock speed. 
 
+**chip components**
+
+chip consists of three main parts
+1) Die
+2) Pads
+3) Core
+
+![Screenshot (128)](https://github.com/user-attachments/assets/cd06aae4-2652-4013-8828-e815a0505fca)
+
+**Pads** --> Pads are the physical contact points on the die used to connect the internal circuitry to the outside world
+
+**Core** --> The core is the central part of the die that contains the actual digital/analog logic circuitry — the functional heart of the chip.
+
+**Die** --> The die is the entire silicon piece cut from the wafer that contains the integrated circuit (IC).
+
+**The example**: RISC-V SoC 
+
+![Screenshot (119)](https://github.com/user-attachments/assets/2609c087-5f06-47e8-bdb1-11f58a0a1241)
+
+### <ins>Intro to RISC-V</ins>
+
+RISC-V is an open-source, modular instruction set architecture (ISA) based on the principles of Reduced Instruction Set Computing (RISC). Unlike proprietary ISAs such as ARM or x86, RISC-V is freely available for anyone to use, design, and modify, making it ideal for academic research, startups, and custom hardware development. It offers a simple and clean base ISA (like RV32I or RV64I) that can be extended with optional modules such as multiplication/division (M), atomic operations (A), and floating-point (F). Due to its flexibility and scalability, RISC-V is used in a wide range of applications—from low-power microcontrollers to full-featured Linux-capable processors and even AI accelerators. Its open nature encourages innovation and collaboration across the semiconductor industry.
+
+![Screenshot (122)](https://github.com/user-attachments/assets/2a5b09ab-8509-4f47-a092-eb3ae1320b18)
+
+
 
 
 
