@@ -220,7 +220,98 @@ We are doing the picorv32 so for that , we changed the directory to picorv32a an
 
 then goes to the sky130A directory and explored the sky130 conf tcl file
 
-then we used prep -design command for the picorv32a and finished the design preparation
+then we used prep -design command for the picorv32a and finished the design preparation and explored few more files
+
+![4](https://github.com/user-attachments/assets/0250e564-0446-4af9-beea-b38228053a0b)
+
+![6](https://github.com/user-attachments/assets/1894b315-39dd-4011-8004-cec8d1266798)
+
+![6 -1](https://github.com/user-attachments/assets/0a85f2db-ccdc-440c-8523-3c220d96c393)
+
+![7](https://github.com/user-attachments/assets/069d6473-fa2b-42e0-a2ac-487945bba1f8)
+
+![7-1](https://github.com/user-attachments/assets/645e2199-8a8c-4b04-ad7b-f67968204ea8)
+
+here in the prep design we did the synthesis of the picorv32a by using the run command
+
+![8](https://github.com/user-attachments/assets/722374a8-1fea-482f-a265-b7655146cd1d)
+
+![8 final](https://github.com/user-attachments/assets/6954eb3d-7d4a-4d0f-a97b-ba602445190d)
+
+![1](https://github.com/user-attachments/assets/634b91b1-5df2-44d6-971d-a9e0746c7697)
+
+![2](https://github.com/user-attachments/assets/b1f331b2-041c-4510-b297-540cd5da1508)
+
+![2-1](https://github.com/user-attachments/assets/793ca795-7e39-4f7c-9a7f-3608078c98f5)
+
+![3](https://github.com/user-attachments/assets/11117acb-2880-4f34-b26d-53f6eb1aa335)
+
+![4](https://github.com/user-attachments/assets/7961dfec-d3a4-498b-8291-75e0af176809)
+
+![4-1](https://github.com/user-attachments/assets/7c245376-74a2-4840-a44d-2a1a6ea41b65)
+
+![5](https://github.com/user-attachments/assets/7846773f-3481-4f76-84ed-69e1311f77f7)
+
+![5-1](https://github.com/user-attachments/assets/de21dcdf-40e9-42b0-8f38-6cc61a9b9e1b)
+
+![6](https://github.com/user-attachments/assets/3930d8f2-3255-46ee-9f4b-ff0e835a9b4f)
+
+![6-1](https://github.com/user-attachments/assets/4a8e42e4-6493-4ad3-8c90-45810018974d)
+
+# DAY - 2 
+
+## GOOD FLOORPLAN VS BAD FLOORPLAN AND INTRODUCTION TO LIBRARY CELLS
+
+In section , we have explored the floorplanning
+
+1) Define width and height of core and die --> Determine die size based on total cell area and routing/pad overhead, then define a slightly smaller core area inside it.
+2) Define locations of preplaced cells --> Place fixed macros (e.g., memory, analog IP) early to guide placement and minimize congestion.
+3) surround pre-placed cells with decoupling capacitors --> Add decaps around macros to reduce local IR drop and stabilize power.
+4) power planning --> Create power grid and stripes to distribute VDD/VSS efficiently across the chip with minimal voltage drop.
+5) pin placement -->  Position I/O pins along die boundaries based on logical groups and shortest routing paths.
+
+![Screenshot (190)](https://github.com/user-attachments/assets/974e8d82-3615-4a54-8e6a-a4952fc1053d)
+
+![Screenshot (200)](https://github.com/user-attachments/assets/ff2d3242-d6b3-4038-9609-6894af3814dd)
+
+![Screenshot (201)](https://github.com/user-attachments/assets/399561da-924e-40d8-bad4-ca1da971c5c2)
+
+![Screenshot (203)](https://github.com/user-attachments/assets/f1be7e7a-9c59-46b8-867a-9f6162566e8c)
+
+![Screenshot (205)](https://github.com/user-attachments/assets/d0abbb20-67a8-4e3b-aa3b-37d49eebc0c7)
+
+![Screenshot (206)](https://github.com/user-attachments/assets/76851653-a66b-466a-bbf2-9d0a1b58c04e)
+
+![Screenshot (209)](https://github.com/user-attachments/assets/e82bed10-3b5a-4a9d-a40d-b9a7bccbcadf)
+
+![Screenshot (213)](https://github.com/user-attachments/assets/fdd51b32-1171-4b66-8e3a-92986950ae97)
+
+![Screenshot (215)](https://github.com/user-attachments/assets/19fdd337-b8c3-4d63-b0eb-37e9161c59e7)
+
+![Screenshot (216)](https://github.com/user-attachments/assets/52c176d1-758d-4592-9a2f-be99dfa63a9d)
+
+![Screenshot (222)](https://github.com/user-attachments/assets/7b45a59b-1ba8-4885-8778-e951c713fb8f)
+
+![Screenshot (229)](https://github.com/user-attachments/assets/8917a5c8-0046-4cb6-99ea-22cbd0f735a1)
+
+![Screenshot (231)](https://github.com/user-attachments/assets/1fcc5a56-633e-454f-a75e-a84ecfd9bc0d)
+
+![Screenshot (233)](https://github.com/user-attachments/assets/784eb414-045d-4e25-862c-8ef1f3fc6c1c)
+
+![Screenshot (238)](https://github.com/user-attachments/assets/a58f5b0f-dc46-4860-ac7c-fe6c3762f180)
+
+![Screenshot (246)](https://github.com/user-attachments/assets/e056a4bb-abe1-49b7-b0bf-9de3255a80c0) 
+
+![Screenshot (247)](https://github.com/user-attachments/assets/925f422d-e429-4a48-8fca-7d173d9c087e)
+
+![Screenshot (250)](https://github.com/user-attachments/assets/37992c9a-e14b-4f07-afa7-77207be40fc0)
+
+
+
+
+
+
+
 
 
 
