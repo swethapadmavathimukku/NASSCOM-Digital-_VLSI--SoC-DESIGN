@@ -1,4 +1,4 @@
-# DIGTIAL VLSI SoC DESGIN AND PLANNING
+![Screenshot (290)](https://github.com/user-attachments/assets/db5373f7-c5ec-480a-bd0d-6060613cd641)# DIGTIAL VLSI SoC DESGIN AND PLANNING
 
 Digital VLSI SoC Design and Planning refers to the process of designing and preparing a System-on-Chip (SoC) using Very Large Scale Integration (VLSI) techniques, specifically focused on digital logic circuits.
 
@@ -494,5 +494,153 @@ we have git clone the file and used the tool magic to see the layout
 ![5-2](https://github.com/user-attachments/assets/2a30ced5-b401-4c7b-9675-72c59cfaffd1)
 
 
+### <ins> INCEPTION OF LAYOUT A^ CMOS FABRICATION PROCESS <ins/>
+
+Here we learned about 16 steps of mask CMOS
+
+first starting with the selecting the substrate
+
+![Screenshot (257)](https://github.com/user-attachments/assets/f90b0914-d378-4bb0-8f10-44b7f94b9ac5)
+
+then creating active regions 
+
+![Screenshot (258)](https://github.com/user-attachments/assets/e3ea668a-0d03-4688-842b-a22ba816212d)
+
+step-3 adding the mask 1 to create the active region
+
+![Screenshot (261)](https://github.com/user-attachments/assets/cf944c9e-e226-4e3f-aa34-e6b410b3e377)
+
+![Screenshot (262)](https://github.com/user-attachments/assets/88e58f5d-fdb1-4a8d-ac98-dd9f49a86ddc)
+
+![Screenshot (263)](https://github.com/user-attachments/assets/4ed82466-4c45-40bf-8580-12f1d028ab54)
+
+![Screenshot (265)](https://github.com/user-attachments/assets/aba5b456-e7aa-4131-83ef-374ec680ae5a)
+
+![Screenshot (266)](https://github.com/user-attachments/assets/f1ef22b7-3095-4deb-94bc-1da6f6d27be7)
+
+![Screenshot (267)](https://github.com/user-attachments/assets/485cd783-5037-405d-a248-a471dea37641)
+
+step-4 N WELL  and P WELL formation
+
+![Screenshot (274)](https://github.com/user-attachments/assets/dfeee17a-69a4-4cdb-af38-2b555deb961f)
+
+![Screenshot (269)](https://github.com/user-attachments/assets/96d24f83-6990-40c2-866d-d8fa03716516)
+
+![Screenshot (272)](https://github.com/user-attachments/assets/8f7ea3de-2a52-4aec-8a69-4280fa6cff69)
+
+![Screenshot (274)](https://github.com/user-attachments/assets/cbd1b5eb-ddb3-48f5-bd2c-bba77fb13a03)
+
+![Screenshot (276)](https://github.com/user-attachments/assets/37cb98e1-cc81-4323-8682-1bdf2c734247)
+
+![Screenshot (277)](https://github.com/user-attachments/assets/36e370b8-7a49-40e6-8863-527e85d97b44)
+
+![Screenshot (278)](https://github.com/user-attachments/assets/1915b4c7-3b47-4a2c-b341-1a9d585a2729)
+
+used boron and phosphorus for ion implantation  to create the n well and p well and is kept in high temp furnace
+
+![Screenshot (280)](https://github.com/user-attachments/assets/7735bfbf-4232-464b-8556-b2676c3563c1)
 
 
+step-5 formation of gate
+
+![Screenshot (282)](https://github.com/user-attachments/assets/e8c53dbf-136b-4bf9-b834-7eaa92870726)
+
+![Screenshot (286)](https://github.com/user-attachments/assets/2bd1d48a-33b0-4aef-a3e9-4b9c76bddb31)
+
+![Screenshot (287)](https://github.com/user-attachments/assets/b7deb3ec-9a53-401b-807b-1e4431263276)
+
+![Screenshot (290)](https://github.com/user-attachments/assets/c2a29571-3329-4941-9072-1997c438a3ad)
+
+![Screenshot (291)](https://github.com/user-attachments/assets/dd17ee2d-68a6-4309-ac9d-a65a9bf24b6a)
+
+![Screenshot (292)](https://github.com/user-attachments/assets/0a44e812-d36a-4584-a9b3-9a1f647d5c0f)
+
+![Screenshot (293)](https://github.com/user-attachments/assets/4b9010e5-a821-4c83-a163-607b821e073e)
+
+![Screenshot (294)](https://github.com/user-attachments/assets/072be424-95c6-4baa-bc16-b68e87d2ace1)
+
+![Screenshot (295)](https://github.com/user-attachments/assets/effa1d5a-7744-48f5-b7e6-1fa35d5a9888)
+
+![Screenshot (297)](https://github.com/user-attachments/assets/aa3602d1-3d4e-4d08-9023-09dc56bdead8)
+
+used a  layer of polysilicon and etched it and added the mask 6 
+ 
+step -6 lightly doped drain formation
+
+![Screenshot (300)](https://github.com/user-attachments/assets/b11a199f-a3df-4002-9f10-17a3c674d2b6)
+
+![Screenshot (306)](https://github.com/user-attachments/assets/0d5c39d4-f1c4-4dfe-a417-b786f1c034fa)
+
+![Screenshot (309)](https://github.com/user-attachments/assets/75707d46-3297-44af-8516-fce668c36172)
+
+![Screenshot (310)](https://github.com/user-attachments/assets/7ff27f04-49a2-41d3-baf2-ac478ed570ec)
+
+![Screenshot (311)](https://github.com/user-attachments/assets/653d1903-777e-4922-a2a5-9bb364d938f8)
+
+![Screenshot (312)](https://github.com/user-attachments/assets/03460ace-96f9-4590-a93f-1bbcf4c9b1ee)
+
+![Screenshot (313)](https://github.com/user-attachments/assets/d88c8098-2506-4937-9176-72a3b9e290e1)
+
+![Screenshot (314)](https://github.com/user-attachments/assets/a5a7d562-126c-47ec-bf41-d6d3b1d14939)
+
+we used the boron and phosphorus for the ion implant in the wells 
+
+step - 7 source and drain formation
+
+![Screenshot (316)](https://github.com/user-attachments/assets/fba08289-b903-4ef2-8535-f1d0768741c6)
+
+![Screenshot (317)](https://github.com/user-attachments/assets/5f9bdc87-189b-4150-a4f6-6668dcb3c974)
+
+![Screenshot (318)](https://github.com/user-attachments/assets/f71e217d-eb36-49c1-8149-6a876016492f)
+
+![Screenshot (320)](https://github.com/user-attachments/assets/4b900919-29a1-4c2b-b361-8460f148dc90)
+
+![Screenshot (321)](https://github.com/user-attachments/assets/85ac565b-d190-4234-93c6-cd248b8be114)
+
+![Screenshot (323)](https://github.com/user-attachments/assets/621ba674-2576-454b-b01a-d251567404b1)
+
+step -8 formation of contacts
+
+![Screenshot (327)](https://github.com/user-attachments/assets/0bb6eb45-6e31-4c2c-9829-dcea695170db)
+
+![Screenshot (329)](https://github.com/user-attachments/assets/d4ec801c-ec8c-4e1c-8dba-ce60f6db9e59)
+
+![Screenshot (330)](https://github.com/user-attachments/assets/60ceacdc-f07d-4f28-91b3-1aa2d571dd20)
+
+![Screenshot (331)](https://github.com/user-attachments/assets/24121a35-41cc-4756-887a-cce3b7087188)
+
+![Screenshot (333)](https://github.com/user-attachments/assets/2db57311-6c47-4344-81ad-bc36f6086b5b)
+
+![Screenshot (338)](https://github.com/user-attachments/assets/25ff053c-d2d2-4c9c-9508-35f73eca73d6)
+
+![Screenshot (339)](https://github.com/user-attachments/assets/68bf76e7-43fe-4f12-9d73-bb40bae9ee35)
+
+step - 9 higher level formation
+
+![Screenshot (343)](https://github.com/user-attachments/assets/8879b025-7327-4471-b66d-bf269797ad7a)
+
+![Screenshot (344)](https://github.com/user-attachments/assets/e3a8bd07-b9c0-480a-a4d1-30c87562691a)
+
+![Screenshot (345)](https://github.com/user-attachments/assets/8e286eb8-13de-4c3d-9a87-910c22d59289)
+
+![Screenshot (347)](https://github.com/user-attachments/assets/0cf042c3-2cd6-474d-8a3e-8016a3421a55)
+
+![Screenshot (348)](https://github.com/user-attachments/assets/447d4464-80d1-4648-84af-9a2a46ba8d20)
+
+![Screenshot (349)](https://github.com/user-attachments/assets/9cb663a8-9583-4bcc-869e-8c7b8a2fa288)
+
+![Screenshot (350)](https://github.com/user-attachments/assets/6b2e3051-28cc-4241-b754-ec9390dca0e4)
+
+![Screenshot (351)](https://github.com/user-attachments/assets/3cd0d7d6-3fbc-4964-8f71-21dec475ca5b)
+
+![Screenshot (353)](https://github.com/user-attachments/assets/75dbe8f9-4c8d-462a-a2cc-150d3384a97e)
+
+![Screenshot (354)](https://github.com/user-attachments/assets/63e34e5c-caed-41e7-992a-290fde62e5bf)
+
+similarly we added another layer on top that is tin despoited in the holes and finally mask layer 15  is added 
+
+![Screenshot (362)](https://github.com/user-attachments/assets/79e1d577-f4f1-4a52-b81e-9b229299b582)
+
+![Screenshot (364)](https://github.com/user-attachments/assets/34a2697c-9d3b-4441-b54b-f33cba8474ea)
+
+![Screenshot (365)](https://github.com/user-attachments/assets/e078f0c7-e2e1-467e-93f5-c81dd9144ecf)
