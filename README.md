@@ -461,4 +461,38 @@ GUNA --> GUNA is an open-source standard cell library from IIT Madras designed t
 
  ### <ins> LABS FOR CMOS INVERTER NGSPICE SIMULATIONS <ins/>
 
- 
+![Screenshot (373)](https://github.com/user-attachments/assets/660f89ee-b63f-4726-90b6-ee98b05eb0f2)
+
+spice deck --> A SPICE deck is a text-based file used to simulate electronic circuits using SPICE (Simulation Program with Integrated Circuit Emphasis). It describes the circuit's components, their connections (netlist), simulation commands, and models.
+
+1) component connectivity
+2) component values
+3) identify nodes
+4) name nodes
+
+![Screenshot (376)](https://github.com/user-attachments/assets/df49007f-9e6d-4e7c-a5a9-2ebfe3b7a8f3)
+
+![Screenshot (384)](https://github.com/user-attachments/assets/a1e1d377-1eae-4a36-8da4-9e1202a09b4e)
+
+
+** Lab steps to git clone vsdstdcelldesign **
+
+we have git clone the file and used the tool magic to see the layout
+
+![1](https://github.com/user-attachments/assets/1db45cfa-f1e6-4396-bb78-92bf7da5ce38)
+
+![3](https://github.com/user-attachments/assets/1c35e4eb-26ff-44cd-863f-0a292b14e572)
+
+![4](https://github.com/user-attachments/assets/ffa3f0ae-8642-49cd-b140-9b9af9b264be)
+
+![4-1](https://github.com/user-attachments/assets/c9e5385a-2000-4dff-8b43-1c29948d491e)
+
+![5](https://github.com/user-attachments/assets/dfdc6b73-6f92-42a0-b8cb-50060558ce23)
+
+![5-1](https://github.com/user-attachments/assets/db155fa7-b276-4708-8bb0-cc776d96c824)
+
+![5-2](https://github.com/user-attachments/assets/2a30ced5-b401-4c7b-9675-72c59cfaffd1)
+
+
+
+
