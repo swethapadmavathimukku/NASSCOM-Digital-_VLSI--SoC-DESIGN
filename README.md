@@ -348,7 +348,7 @@ In section , we have explored the floorplanning
 
 ![5-2](https://github.com/user-attachments/assets/86c4c530-a682-48e2-838a-d608fd835033)
 
-checked the floorplanning results and used magic , a opensource layout tool and used to see the layout after floorplanning.
+checked the floorplanning results and used magic , a opensource layout tool and used to see the layout.
 
 * merged.lef: This version includes cell padding, controlled by the CELL_PAD parameter. Padding is added to ensure proper spacing between cells during placement and routing
 * merged_unpadded.lef: This version excludes cell padding and is used in stages where unpadded cell dimensions are required .
