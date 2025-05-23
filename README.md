@@ -741,3 +741,20 @@ here we see the DRC that is Design Rule Check (DRC) is a verification process us
 there few rules that is 1) width 2) spacing 3) pitch between the wires
 
 ![image](https://github.com/user-attachments/assets/2d19547d-944e-4933-93ea-c978c7251f2e)
+
+
+![image](https://github.com/user-attachments/assets/32b50de3-845d-42e3-8782-ec3a86a35b24)
+
+TritonRoute is an open-source detailed router developed as part of the OpenROAD project. It takes global routing guides and produces exact wiring paths for the nets on the chip layout.
+
+### REFERENCES
+
+http://opencircuitdesign.com/magic/
+
+https://github.com/nickson-jose/vsdstdcelldesign
+
+https://github.com/google/skywater-pdk
+
+### ACKNOWLEGEMENT
+
+I would like to sincerely thank Mr. Kunal Ghosh, founder and ceo of VLSI System Design (VSD) , and Mr. Nickson Jose for their outstanding guidance and delivery of the DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING workshop. Their deep expertise and valuable insights were instrumental in enhancing my understanding of physical chip design using OpenLANE software and other advanced methodologies. The workshop was thoughtfully planned and expertly conducted, providing me with a rich learning experience and fresh perspectives. And got a great chance in exploring the opensource tools . I am truly grateful to Mr. Kunal Ghosh and Mr. Nickson Jose for their dedicated efforts and commitment, which made this workshop an exceptional success.
