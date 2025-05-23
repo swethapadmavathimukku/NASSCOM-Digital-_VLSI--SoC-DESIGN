@@ -665,8 +665,60 @@ this is layout of the inverter and from the window which popped up has few comma
 
 like selecting the area and giving the cmd what means it gives the detail about the selected area
 
+
 ![1](https://github.com/user-attachments/assets/ab924c5e-6ce7-4fe4-9b28-d0421f6e838f)
 
+
 ![5](https://github.com/user-attachments/assets/95fecdc6-606f-4e34-91cc-3f5cc1e8e8fa)
+
+# DAY-4
+
+## PRE-LAYOUT TIMING ANALYSIS AND IMPORTANCE OF GOOD CLOCK TREE
+
+### IMING MODELLING USING DELAY TABLES
+
+![1](https://github.com/user-attachments/assets/699f8265-cc91-4642-b256-73bde3dcbd06)
+
+![2](https://github.com/user-attachments/assets/d52517d5-9f2f-41f3-bc2c-1062888adbd0)
+
+![3](https://github.com/user-attachments/assets/224f3532-5876-40c0-bca4-5b56094201e1)
+
+![5-1](https://github.com/user-attachments/assets/e8d3d7f7-b921-464f-9188-006260700048)
+
+![7](https://github.com/user-attachments/assets/aa3faa41-2bd3-47c3-896c-5325f4130701)
+
+![7-1](https://github.com/user-attachments/assets/cc01d608-f301-4692-adc2-98b281f5441d)
+
+--> less is a powerful command-line file pager that lets you view the contents of a file one screen at a time
+
+![3](https://github.com/user-attachments/assets/9dbfbc47-2cf3-45ce-979a-1dbd23e0fdf9)
+
+
+![7-1](https://github.com/user-attachments/assets/6480998b-8fa7-406a-99c3-d6b99ab202dd)
+
+![7-2](https://github.com/user-attachments/assets/4e37327a-c185-4bb5-a3c6-6159c0a4c168)
+
+![7-3](https://github.com/user-attachments/assets/7b723550-e193-476d-84a1-aa76c4973fda)
+
+![7-4](https://github.com/user-attachments/assets/17246326-5191-43c4-a89d-f6093a4bffe5)
+
+![floorplan 5](https://github.com/user-attachments/assets/c3191868-1595-4466-9fd2-280f059dc438)
+
+the synthesis and floorplan are completed and in magic tool we have viewed the die 
+
+![2](https://github.com/user-attachments/assets/be3d5b3a-fb77-4c94-b6df-b7f7e9135a48)
+
+![3](https://github.com/user-attachments/assets/c3bdcab7-fbc9-44be-be4a-922d6273fd62)
+
+![5](https://github.com/user-attachments/assets/63e0528c-401f-4092-bc9b-14dd112c9361)
+
+![5-1](https://github.com/user-attachments/assets/2edde62b-c4ff-4cfd-9499-a74c7a5d78cb)
+
+![6-2](https://github.com/user-attachments/assets/77b22aa0-7689-4eaf-b401-5dcddacf5142)
+
+
+![2](https://github.com/user-attachments/assets/3cdba806-4837-4e06-b76d-e881b9f7dcd2)
+
+then we did the cts that is clock tree synthesis and it is criucal step for the design
 
 
