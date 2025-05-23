@@ -451,4 +451,14 @@ GUNA --> GUNA is an open-source standard cell library from IIT Madras designed t
 
 ![Screenshot (471)](https://github.com/user-attachments/assets/94ad75da-5857-439c-98a1-42454e8e8f34)
 
+ Propagation Delay -- Time taken for a signal to propagate from the input to the output of a gate, measured from the 50% voltage point of the input to the 50% voltage point of the output.
+
+ Transition Delay -- Time taken for the output signal to transition from 10% to 90% (rise) or 90% to 10% (fall) of its final value.
+
+ # DAY-3
+
+ ## DESIGN LIBRARY CELL USING MAGIC LAYOUT AND NGSPICE CHARACTERIZATION
+
+ ### <ins> LABS FOR CMOS INVERTER NGSPICE SIMULATIONS <ins/>
+
  
