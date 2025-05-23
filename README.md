@@ -644,3 +644,29 @@ similarly we added another layer on top that is tin despoited in the holes and f
 ![Screenshot (364)](https://github.com/user-attachments/assets/34a2697c-9d3b-4441-b54b-f33cba8474ea)
 
 ![Screenshot (365)](https://github.com/user-attachments/assets/e078f0c7-e2e1-467e-93f5-c81dd9144ecf)
+
+
+
+** floorplan ** 
+
+![2-1](https://github.com/user-attachments/assets/4d8ce9ad-99a8-472f-93ca-c79e7c6db7cc)
+
+![2-1-1](https://github.com/user-attachments/assets/d0edbb18-f473-421d-90dc-814dc8c69025)
+
+after floorplan the magic tool is used to show the die 
+
+![2-2](https://github.com/user-attachments/assets/b3cae46a-5055-4062-8976-47232d2779fa)
+
+![3-1](https://github.com/user-attachments/assets/f9ef321f-1e2d-4ecc-9729-3259cbb9cfd8)
+
+![1-3](https://github.com/user-attachments/assets/34879653-4610-4e40-a2af-a115ba298f56)
+
+this is layout of the inverter and from the window which popped up has few command that are explored 
+
+like selecting the area and giving the cmd what means it gives the detail about the selected area
+
+![1](https://github.com/user-attachments/assets/ab924c5e-6ce7-4fe4-9b28-d0421f6e838f)
+
+![5](https://github.com/user-attachments/assets/95fecdc6-606f-4e34-91cc-3f5cc1e8e8fa)
+
+
