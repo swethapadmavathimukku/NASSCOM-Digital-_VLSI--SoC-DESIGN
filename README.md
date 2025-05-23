@@ -354,3 +354,20 @@ checked the floorplanning results and used magic , a opensource layout tool and 
 
 * merged.lef: This version includes cell padding, controlled by the CELL_PAD parameter. Padding is added to ensure proper spacing between cells during placement and routing
 * merged_unpadded.lef: This version excludes cell padding and is used in stages where unpadded cell dimensions are required .
+
+**LIBRARY BINDING AND PLACEMENT**
+
+1) bind netlist with physical cells
+2) placement
+3) optimize placement
+
+![Screenshot (400)](https://github.com/user-attachments/assets/e1d64abf-efb3-4659-80f9-ee3f764e04da)
+
+![Screenshot (402)](https://github.com/user-attachments/assets/4680d404-6572-4c99-94ad-5f742d7016af)
+
+![Screenshot (408)](https://github.com/user-attachments/assets/92a7b3b2-78ba-4409-97f4-809a8573d501)
+
+![Screenshot (414)](https://github.com/user-attachments/assets/1f08329f-91fa-48e6-b082-8aa7714d431e)
+
+
+
