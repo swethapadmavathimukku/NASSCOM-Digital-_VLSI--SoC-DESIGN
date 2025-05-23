@@ -369,5 +369,16 @@ checked the floorplanning results and used magic , a opensource layout tool and 
 
 ![Screenshot (414)](https://github.com/user-attachments/assets/1f08329f-91fa-48e6-b082-8aa7714d431e)
 
+the flow goes from synthesis to routing , this are the steps to create the chip
+
+1) synthesis
+2) floor planning
+3) placement
+4) cts
+5) routing
+
+![Screenshot (419)](https://github.com/user-attachments/assets/9e856001-b145-4b92-93ee-feb84a696100)
+
+
 
 
