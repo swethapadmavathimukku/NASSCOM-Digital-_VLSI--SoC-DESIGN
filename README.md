@@ -721,4 +721,23 @@ the synthesis and floorplan are completed and in magic tool we have viewed the d
 
 then we did the cts that is clock tree synthesis and it is criucal step for the design
 
+# DAY -5 
 
+## FINAL STEPS FOR RTL2GDS USING TRITONROUTE AND OPENSTA
+
+After cts , the final step is routing 
+
+![routning final](https://github.com/user-attachments/assets/0f16546d-3a80-4924-a368-8e886da05a76)
+
+routing is divided into two 
+
+1) global route --> Global routing finds approximate paths between source and destination pins within a grid-based layout, helping plan congestion and wire distribution before detailed routing begins.
+2) detailed route --> Detailed routing finalizes the precise paths of wires, specifying exact routes, metal layers, and vias to connect all pins without violating design rules
+
+![image](https://github.com/user-attachments/assets/36d114e2-cd29-43fd-8844-fca19dd39216)
+
+here we see the DRC that is Design Rule Check (DRC) is a verification process used in chip design to ensure that the physical layout complies with a set of predefined manufacturing rules provided by the semiconductor foundry.
+
+there few rules that is 1) width 2) spacing 3) pitch between the wires
+
+![image](https://github.com/user-attachments/assets/2d19547d-944e-4933-93ea-c978c7251f2e)
