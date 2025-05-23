@@ -14,7 +14,7 @@ DAY - 1
 DAY - 2
   
   2. GOOD FLOORPLAN VS BAD FLOORPLAN AND INTRODUCTION TO LIBRARY CELLS
-       * [CHIP FLOOR PLANNING CONSIDERATIONS](https://github.com/swethapadmavathimukku/NASSCOM-Digital-_VLSI--SoC-DESIGN/blob/main/README.md#good-floorplan-vs-bad-floorplan-and-introduction-to-library-cells)
+       * [CHIP FLOOR PLANNING CONSIDERATIONS]()
        * [LIBRARY BINDING AND PLACEMENT](https://github.com/swethapadmavathimukku/NASSCOM-Digital-_VLSI--SoC-DESIGN/edit/main/README.md)
        * [CELL DESIGN AND CHARACTERIZATION FLOWS](https://github.com/swethapadmavathimukku/NASSCOM-Digital-_VLSI--SoC-DESIGN/edit/main/README.md)
        * [GENERAL TIMING CHARACTERIZATION PARAMETERS](https://github.com/swethapadmavathimukku/NASSCOM-Digital-_VLSI--SoC-DESIGN/edit/main/README.md)
@@ -261,6 +261,8 @@ here in the prep design we did the synthesis of the picorv32a by using the run c
 # DAY - 2 
 
 ## GOOD FLOORPLAN VS BAD FLOORPLAN AND INTRODUCTION TO LIBRARY CELLS
+
+### <ins> CHIP FLOOR PLANNING CONSIDERATIONS <ins/>
 
 In section , we have explored the floorplanning
 
