@@ -1,4 +1,4 @@
-![Screenshot (290)](https://github.com/user-attachments/assets/db5373f7-c5ec-480a-bd0d-6060613cd641)# DIGTIAL VLSI SoC DESGIN AND PLANNING
+# DIGTIAL VLSI SoC DESGIN AND PLANNING
 
 Digital VLSI SoC Design and Planning refers to the process of designing and preparing a System-on-Chip (SoC) using Very Large Scale Integration (VLSI) techniques, specifically focused on digital logic circuits.
 
