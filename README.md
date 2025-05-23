@@ -411,8 +411,44 @@ The above pics contains the cell design flow from inputs to the outputs
 
 GUNA --> GUNA is an open-source standard cell library from IIT Madras designed to support VLSI education, research, and open-source digital IC design
 
+### <ins> GENERAL TIMING CHARACTERIZATION PARAMETERS <ins/>
+
+![Screenshot (452)](https://github.com/user-attachments/assets/122f7918-f18c-4175-9db7-4a29035b7555)
+
+ In the above pic the timing characterization contains of high , low of rise and fall of time
+
+![Screenshot (454)](https://github.com/user-attachments/assets/84f7a2a5-26b8-4cf0-af56-4ea1ce5db60b)
+
+ - low rise threshold
+
+   
+![Screenshot (455)](https://github.com/user-attachments/assets/5670cfec-773f-41df-adce-819060fdc46f)
+
+- high rise threshold
 
 
+![Screenshot (456)](https://github.com/user-attachments/assets/e7174b3b-8ddf-4850-bcb6-c6ed83f6be57)
 
+- low fall threshold
 
+![Screenshot (457)](https://github.com/user-attachments/assets/944334e3-83e1-4cea-bc69-8f48dbdbebd2)
 
+-in rise threshold
+
+![Screenshot (459)](https://github.com/user-attachments/assets/81d6477b-9816-4db0-92a3-158af21a41f8)
+
+-out rise threshold
+
+![Screenshot (460)](https://github.com/user-attachments/assets/6918b28e-531b-4bd1-bffa-20842ed3402d)
+
+-in fall threshold
+
+![Screenshot (461)](https://github.com/user-attachments/assets/83221a11-dbe2-4499-b8bf-7aec6dd562ab)
+
+![Screenshot (467)](https://github.com/user-attachments/assets/713b7589-d309-45f2-b9f4-cbd2aeb420a1)
+
+ propagation delay is the above pic
+
+![Screenshot (471)](https://github.com/user-attachments/assets/94ad75da-5857-439c-98a1-42454e8e8f34)
+
+ 
