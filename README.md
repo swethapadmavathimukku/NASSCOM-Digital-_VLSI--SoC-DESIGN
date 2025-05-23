@@ -382,3 +382,37 @@ the flow goes from synthesis to routing , this are the steps to create the chip
 
 
 
+### <ins> LIBRARY BINDING AND PLACEMENT <ins/>
+
+Standard cells are pre-designed and pre-characterized logic gates and functional units (like AND, OR, NAND, flip-flops, muxes).
+
+![Screenshot (423)](https://github.com/user-attachments/assets/145955ac-6935-4969-a661-98ada60012ab)
+
+for connecting from one cell to the another cell, sometimes according to the distance we use buffer block in middle to connect.
+
+![Screenshot (427)](https://github.com/user-attachments/assets/f223b23f-9910-4b17-ae9d-623293fe4fac)
+
+![Screenshot (428)](https://github.com/user-attachments/assets/a0a179b3-fb14-4b43-a782-f0aadbb3c51d)
+
+![Screenshot (430)](https://github.com/user-attachments/assets/fac065fc-9962-47e2-bec1-66e343e4e32a)
+
+![Screenshot (437)](https://github.com/user-attachments/assets/486adb65-90e1-4d22-ae91-420e96adeb35)
+
+![Screenshot (440)](https://github.com/user-attachments/assets/4a494733-ff62-46c6-be69-aaa2d3687caf)
+
+![Screenshot (442)](https://github.com/user-attachments/assets/063aa989-85ea-4399-a2ab-05a653bb96b4)
+
+![Screenshot (443)](https://github.com/user-attachments/assets/1678ecfa-8fce-40ad-af40-50fd492d9d1e)
+
+![Screenshot (450)](https://github.com/user-attachments/assets/c5d14cfc-e555-4827-9356-f0cdef3f5fc6)
+
+
+The above pics contains the cell design flow from inputs to the outputs 
+
+GUNA --> GUNA is an open-source standard cell library from IIT Madras designed to support VLSI education, research, and open-source digital IC design
+
+
+
+
+
+
