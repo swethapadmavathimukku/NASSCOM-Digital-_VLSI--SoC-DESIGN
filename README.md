@@ -307,13 +307,48 @@ In section , we have explored the floorplanning
 ![Screenshot (250)](https://github.com/user-attachments/assets/37992c9a-e14b-4f07-afa7-77207be40fc0)
 
 
+### steps for run the floor planning
+
+![1](https://github.com/user-attachments/assets/024a079b-b820-424e-bc3c-59dc62d3644f)
+
+![1-2](https://github.com/user-attachments/assets/29eee72f-f6d3-4409-86e8-b18c43bbe52b)
+
+![2](https://github.com/user-attachments/assets/08e42853-a4bc-46c2-ba79-104ec17c2bc7)
+
+![2-1](https://github.com/user-attachments/assets/8ef1b6ce-a13e-4eab-854f-35e5b70576a2)
+
+![3](https://github.com/user-attachments/assets/bb773278-6622-4c63-b557-2a9fa14c742f)
+
+![3-1](https://github.com/user-attachments/assets/a0b4143f-d893-4313-9835-9ee22cd1c4b3)
+
+* after the synthesis then we go for the floor planning , there we go the confirugation directory there we explored the readme file and contains present then checked the conf.tcl file soon we go for run_floorplan for running the floorplan for our design picorv32a.
 
 
+![1](https://github.com/user-attachments/assets/2a9e33f7-dda8-4dac-a17c-2b8f09281b65)
 
+![2](https://github.com/user-attachments/assets/c36c70c5-2bf0-4000-81b6-cf4c15096bd1)
 
+![2-1](https://github.com/user-attachments/assets/66917782-32a3-4ea5-8d43-6935c8e0875f)
 
+![3](https://github.com/user-attachments/assets/ad71ced6-7b53-426f-8a7d-11d02e4a2782)
 
+![3-1](https://github.com/user-attachments/assets/22a1aca8-591d-44dc-aa18-f5f20a4a84e9)
 
+![4](https://github.com/user-attachments/assets/cd190255-01a7-403f-8841-c9a60d0de683)
 
+![4-1](https://github.com/user-attachments/assets/75725421-6dbd-4a92-be15-de334c680a7e)
 
+![5](https://github.com/user-attachments/assets/7ff3b432-5785-4a4f-9226-5a4687354772)
 
+![5-1](https://github.com/user-attachments/assets/9867fa6b-4e15-4c30-b381-08dde5a37a31)
+
+![6-1](https://github.com/user-attachments/assets/730d8544-cf36-44fe-b2bd-96f4521132f7)
+ 
+![6](https://github.com/user-attachments/assets/2c002713-763c-4ca8-b45c-3e1e603f7894)
+
+![5-2](https://github.com/user-attachments/assets/86c4c530-a682-48e2-838a-d608fd835033)
+
+checked the floorplanning results and used magic , a opensource layout tool and used to see the layout after floorplanning.
+
+* merged.lef: This version includes cell padding, controlled by the CELL_PAD parameter. Padding is added to ensure proper spacing between cells during placement and routing
+* merged_unpadded.lef: This version excludes cell padding and is used in stages where unpadded cell dimensions are required .
